@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "882155929843",
+    "firebase_url": "https://chatme-ec6c7.firebaseio.com",
+    "project_id": "chatme-ec6c7",
+    "storage_bucket": "chatme-ec6c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882155929843:android:821bc4dfb81a6736",
+        "android_client_info": {
+          "package_name": "com.example.willbrom.chatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882155929843-68uh3f3lavtg1p6nfu8msa2baun7hjjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2aAo6QP2o96xRNbNS0C268Coxn_9KkFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
