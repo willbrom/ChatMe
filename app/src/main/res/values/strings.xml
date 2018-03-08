@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Chat Me</string>
+    <string name="message_hint">Write a message</string>
+    <string name="button_send">Send</string>
+    <string name="todo_message">TODO: Implement</string>
+    <string name="error_message">Error: Unable to load data</string>
 </resources>
